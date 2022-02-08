@@ -1,1 +1,1 @@
-edit Project_Name in terraform.tfvars
+edit **project_id** in **terraform.tfvars**
